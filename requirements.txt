@@ -6,3 +6,9 @@ requests
 openai
 vaderSentiment
 python-dotenv
+langchain
+langchain_community
+langchain.agents
+langchain.llms
+langchain_google_genai
+
