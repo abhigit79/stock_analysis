@@ -5,7 +5,7 @@ textblob
 requests
 openai
 vaderSentiment
-python-dotenv==0.19.0
+python-dotenv==1.0.1
 langchain.agents
 langchain.llms
 langchain_google_genai
