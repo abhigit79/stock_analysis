@@ -5,4 +5,4 @@ textblob
 requests
 openai
 vaderSentiment
-dotenv
+python-dotenv
