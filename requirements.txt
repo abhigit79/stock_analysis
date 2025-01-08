@@ -1,0 +1,7 @@
+streamlit
+yfinance
+newspaper3k
+textblob
+requests
+openai
+vaderSentiment
