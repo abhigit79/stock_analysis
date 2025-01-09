@@ -8,7 +8,7 @@ vaderSentiment
 python-dotenv==0.21.1
 #langchain.agents
 langgraph
-langchain
+langchain==0.0.196
 #langchain_core.tools
 #langchain.llms
 langchain_google_genai
