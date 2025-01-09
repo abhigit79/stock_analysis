@@ -3,7 +3,8 @@ import requests
 import datetime
 from dotenv import load_dotenv
 load_dotenv(override=True)
-from langchain.agents import initialize_agent, Tool
+#from langchain.agents import initialize_agent, Tool
+from langchain_core.tools import initialize_agent, Tool
 from langchain.llms import OpenAI  # Replace with your preferred LLM
 from langchain_google_genai import ChatGoogleGenerativeAI
 import os
