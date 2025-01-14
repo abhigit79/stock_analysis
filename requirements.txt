@@ -9,8 +9,9 @@ python-dotenv==0.21.1
 #langchain.agents
 langgraph
 langchain==0.0.196
+langchain.agents
 #langchain_core.tools
-#langchain.llms
+langchain.llms
 langchain_google_genai
 pip>=24.3.1
 
